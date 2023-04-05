@@ -98,7 +98,7 @@
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
-  --bs-body-color: #212529;
+  /* --bs-body-color: var(--bs-black); */
   --bs-emphasis-color-rgb: 0, 0, 0;
   --bs-secondary-color: rgba(33, 37, 41, 0.75);
   --bs-secondary-color-rgb: 33, 37, 41;
@@ -108,7 +108,7 @@
   --bs-tertiary-color-rgb: 33, 37, 41;
   --bs-tertiary-bg: #f8f9fa;
   --bs-tertiary-bg-rgb: 248, 249, 250;
-  --bs-body-bg: #fff;
+  /* --bs-body-bg: #49235c; */
   --bs-body-bg-rgb: 255, 255, 255;
   --bs-link-color: #0d6efd;
   --bs-link-color-rgb: 13, 110, 253;
@@ -21380,4 +21380,45 @@ fieldset:disabled .btn {
 }
 .wave-highlight.wave-highlight-center {
   background-position: 0 60%;
+}
+
+:root {
+  --bs-body-color:  #777777;
+  --primary-color: #49235c;
+  --secondary-color: #f4af2f;
+  
+  --navbar-link: var(--secondary-color);
+  --navbar-link-active: var(--bs-gray-100);
+}
+
+.wave-bg-blue {
+    background: var(--primary-color);
+    color: white;
+}
+
+.navbar-nav a {
+  color: var(--navbar-link);
+}
+
+.navbar-nav a:hover {
+  color: red;
+}
+
+.navbar-nav .nav-link.active {
+  color: var(--navbar-link-active);
+}
+
+
+
+.wave-highlight {
+    background: linear-gradient(120deg, var(--primary-color), var(--primary-color)) !important
+;
+    background-position: 0 80% !important;
+    background-repeat: no-repeat !important;
+    background-size: 100% 20% !important;
+}
+
+.section-header {
+  font-size: 3rem;
+  color: #f4af2f !important;
 }
