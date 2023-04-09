@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="1080" height="1080"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 540)" id="SvgjsG1003">
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke" x="-540" y="-540" rx="0" ry="0" width="1080" height="1080"></rect>
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="SvgjsG1002">
+</g>
+<g transform="matrix(2.89 0 0 -2.89 657.42 173.62)" clip-path="url(#CLIPPATH_51)">
+<clipPath id="SvgjsClipPath1001">
+	<path transform="matrix(1 0 0 1 -37.62 -202.39) translate(-540, -540)" d="M 0 1080 L 1080 1080 L 1080 0 L 0 0 Z" stroke-linecap="round"></path>
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(246,177,50); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(18.16, 10.52)" d="M 0 0 C -1.843 3.252 -4.336 5.745 -7.588 7.588 C -10.948 9.431 -14.417 10.407 -18.211 10.407 C -21.68 10.407 -25.149 9.431 -28.401 7.588 C -31.762 5.745 -34.255 3.252 -36.206 0 C -38.048 -3.143 -38.916 -6.612 -38.916 -10.407 C -38.916 -14.092 -38.048 -17.561 -36.206 -20.813 C -34.255 -23.957 -31.762 -26.559 -28.401 -28.51 C -25.149 -30.461 -21.68 -31.437 -18.211 -31.437 C -14.417 -31.437 -10.948 -30.461 -7.588 -28.51 C -4.336 -26.559 -1.843 -23.957 0 -20.813 C 1.735 -17.561 2.602 -14.092 2.602 -10.407 C 2.602 -6.612 1.735 -3.143 0 0" stroke-linecap="round"></path>
+</g>
+<g transform="matrix(2.89 0 0 -2.89 540 593.47)" clip-path="url(#CLIPPATH_52)">
+<clipPath id="SvgjsClipPath1000">
+	<path transform="matrix(1 0 0 1 1.27 -57.36) translate(-540, -540)" d="M 0 1080 L 1080 1080 L 1080 0 L 0 0 Z" stroke-linecap="round"></path>
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(71,34,92); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-538.73, -597.36)" d="M 687.73 560.646 L 467.516 560.646 L 467.516 674.903 L 687.73 674.903 Z M 687.73 708.544 L 467.34 708.544 C 444.736 708.544 433.61 697.33 433.875 674.903 L 433.875 560.646 L 422.636 560.646 L 422.636 726.614 C 420.648 725.179 414.619 721.216 405.936 721.215 C 397.249 721.214 391.216 725.179 389.229 726.614 L 389.229 560.646 L 372.641 560.646 C 363.4 560.646 355.908 553.154 355.908 543.913 C 355.908 534.672 363.4 527.181 372.641 527.181 L 433.875 527.181 L 433.875 468.11 L 449.993 476.94 L 467.516 468.11 L 467.516 527.181 L 687.73 527.181 C 709.981 527.181 721.283 538.395 721.548 560.646 L 721.548 674.903 C 721.283 697.33 709.981 708.544 687.73 708.544" stroke-linecap="round"></path>
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)">
+<g style="">
+</g>
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)">
+<g style="">
+</g>
+</g>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: contrast(0.8333333333333334) brightness(1.7); } }
+</style></svg>

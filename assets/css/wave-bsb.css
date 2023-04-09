@@ -98,7 +98,7 @@
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
-  /* --bs-body-color: var(--bs-black); */
+  --bs-body-color: #777777;
   --bs-emphasis-color-rgb: 0, 0, 0;
   --bs-secondary-color: rgba(33, 37, 41, 0.75);
   --bs-secondary-color-rgb: 33, 37, 41;
@@ -4467,7 +4467,7 @@ fieldset:disabled .btn {
 .navbar {
   --bs-navbar-padding-x: 0;
   --bs-navbar-padding-y: 0.5rem;
-  --bs-navbar-color: rgba(0, 0, 0, 0.9);
+  --bs-navbar-color: rgba(255, 255, 255, 0.9);
   --bs-navbar-hover-color: rgba(var(--bs-emphasis-color-rgb), 0.8);
   --bs-navbar-disabled-color: rgba(var(--bs-emphasis-color-rgb), 0.3);
   --bs-navbar-active-color: rgba(47, 63, 159, 0.9);
@@ -20249,6 +20249,7 @@ fieldset:disabled .btn {
     var(--bsb-overlay-bg-color),
     var(--bsb-overlay-opacity)
   );
+  backdrop-filter: blur(6px);
   bottom: 0;
   content: "";
   display: block;
@@ -21356,7 +21357,7 @@ fieldset:disabled .btn {
   transition: all 0.5s;
 }
 .bsb-tpl-logo-footer {
-  height: 60px;
+  height: 110px;
   width: auto;
 }
 .wave-highlight {
@@ -21380,45 +21381,4 @@ fieldset:disabled .btn {
 }
 .wave-highlight.wave-highlight-center {
   background-position: 0 60%;
-}
-
-:root {
-  --bs-body-color:  #777777;
-  --primary-color: #49235c;
-  --secondary-color: #f4af2f;
-  
-  --navbar-link: var(--secondary-color);
-  --navbar-link-active: var(--bs-gray-100);
-}
-
-.wave-bg-blue {
-    background: var(--primary-color);
-    color: white;
-}
-
-.navbar-nav a {
-  color: var(--navbar-link);
-}
-
-.navbar-nav a:hover {
-  color: red;
-}
-
-.navbar-nav .nav-link.active {
-  color: var(--navbar-link-active);
-}
-
-
-
-.wave-highlight {
-    background: linear-gradient(120deg, var(--primary-color), var(--primary-color)) !important
-;
-    background-position: 0 80% !important;
-    background-repeat: no-repeat !important;
-    background-size: 100% 20% !important;
-}
-
-.section-header {
-  font-size: 3rem;
-  color: #f4af2f !important;
 }
